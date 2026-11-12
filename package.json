@@ -6,7 +6,7 @@
   "keywords": [],
   "dependencies": {
     "cron-job-manager": "^1.0.7",
-    "ejs": "2.3.4",
+    "ejs": "3.1.10",
     "fs": "0.0.2",
     "fs-extra": "^1.0.0",
     "grunt": "1.0.1",
